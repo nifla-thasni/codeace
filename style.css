@@ -1,0 +1,186 @@
+.h1{
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #3F32B9;
+    box-sizing: border-box;
+}
+.h2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #6559D3;
+}
+.h3{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #ee82ee;
+}
+.p1{
+    font-weight: normal;
+    font-family: Arial;
+    font-size: 20px;
+    color: blue; 
+}
+.hero-section{
+    padding-top: 100px;
+}
+.all{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.h4{
+  font-weight: bolder;  
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+  color: black;
+}
+.p2{
+    font-weight: normal;
+    font-family: Arial;
+    font-size: 20px;
+    color: black;  
+}
+.div2{
+    padding-top: 50px;
+}
+
+.div3{
+    padding-top: 10px;
+}
+.h5{ 
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 50px;
+   color: black;
+}
+.div4{
+    padding-top: 50px;
+}
+.h6{
+    font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 50px;
+   color: black;
+}
+.p3{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;    
+}
+.hh1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.hh2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: black;
+}
+.pp2{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;    
+}
+.hh3{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.pp3{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;    
+}
+.hh4{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.pp4{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;    
+}
+.ppp1{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;    
+}
+.ppp2{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;    
+}
+.ppp3{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;    
+}
+.h6{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.div5{
+    padding-top: 50px;
+}
+.div6{
+    padding-top: 50px;
+}
+.pppp1{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;    
+}
+.hhhh1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: black;
+}
+.div7{
+    padding-top: 50px;
+}
+.div8{
+    padding-top: 50px;
+}
+.hhhh2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: black;
+}
+.card2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 5px;
+    border-radius: 20px;
+    background-color: #F4E7F9;
+}
+.card1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 5px;
+    border-radius: 20px;
+
+    background-color: #DAEFF8;
+}
